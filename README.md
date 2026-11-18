@@ -31,23 +31,23 @@
 ## 📰 最新精选 AI 资讯（每日自动同步）
 
 <!-- LATEST-FEED:START -->
-_最后同步（北京时间）：2026-11-18 11:55 · [今日完整归档（2026-11-18）](./digests/2026-11/2026-11-18.md)_
+_最后同步（北京时间）：2026-11-19 04:43 · [今日完整归档（2026-11-19）](./digests/2026-11/2026-11-19.md)_
 
-- **[英伟达650亿押注，随黄仁勋离场生变](https://radar.zhangyejialaoda.com/p/story-b330164a6f0ccccf334136f6/)** (`科技动态` · 2026-11-18 11:14)
-- **[突发·爆料 Claude新功能：账单用户自己付](https://radar.zhangyejialaoda.com/p/story-8568d3642d001c87ece1751e/)** (`AI 工具` · 2026-11-18 10:40)
-- **[vLLM半张A100跑25万上下文](https://radar.zhangyejialaoda.com/p/story-766c7c3a2d954f901f9055a4/)** (`科技动态` · 2026-11-18 10:33)
-- **[英伟达砸10亿美元，给AI基板厂扩产](https://radar.zhangyejialaoda.com/p/story-cf3637817f5441d37b0e2de8/)** (`科技动态` · 2026-11-18 10:02)
-- **[突发·爆料 黄仁勋想回英伟达，董事会说不](https://radar.zhangyejialaoda.com/p/story-e960623c15ca9578d425ee8c/)** (`科技动态` · 2026-11-18 10:01)
-- **[微软编程模型5%成本，打出96%性能](https://radar.zhangyejialaoda.com/p/story-f05d1fd09216e44130461bda/)** (`大模型` · 2026-11-18 09:39)
-- **[Claude母公司获准登陆纳斯达克](https://radar.zhangyejialaoda.com/p/story-2f7614a56d9a5e0fb415ad33/)** (`科技动态` · 2026-11-18 09:23)
-- **[突发·爆料 贝索斯劝英伟达：黄仁勋不回就内部挖](https://radar.zhangyejialaoda.com/p/story-4e9e8433223d6d6889ce94db/)** (`科技动态` · 2026-11-18 09:01)
-- **[语音模型遭劫持，87秒改出毒音频](https://radar.zhangyejialaoda.com/p/story-a5a96cf48fc1d6fb62cf6086/)** (`科技动态` · 2026-11-18 08:57)
-- **[黄仁勋放话：董事会点头就回去当CEO](https://radar.zhangyejialaoda.com/p/story-a6269983aa9793997e8ec88c/)** (`科技动态` · 2026-11-18 08:32)
-- **[英伟达Q3营收翻倍 数据中心破千亿](https://radar.zhangyejialaoda.com/p/story-77549c5da5b9441c3fe05de9/)** (`科技动态` · 2026-11-18 08:05)
-- **[突发·爆料 黄仁勋想回英伟达，董事会：免谈](https://radar.zhangyejialaoda.com/p/story-0c92ec036423822a47059592/)** (`科技动态` · 2026-11-18 08:03)
-- **[突发·爆料 微软决策模型跑赢GPT-6 Luna](https://radar.zhangyejialaoda.com/p/story-80b62a9095e4b8f7396d1cfe/)** (`大模型` · 2026-11-18 08:02)
-- **[突发·爆料 1/5价格登顶，微软修图AI开卷](https://radar.zhangyejialaoda.com/p/story-85220734c591f63676b10234/)** (`大模型` · 2026-11-18 07:37)
-- **[突发 微软把CRM塞进Copilot聊天框](https://radar.zhangyejialaoda.com/p/story-5c5ea894336ccd741d42f984/)** (`AI 工具` · 2026-11-18 07:16)
+- **[英伟达驱动被曝闲置狂写SSD](https://radar.zhangyejialaoda.com/p/story-540f100c4b55d29b4cc94439/)** (`科技动态` · 2026-11-18 23:40)
+- **[上海万卡智算中心试运行，智谱疑入局](https://radar.zhangyejialaoda.com/p/story-de01317cee88532197e12801/)** (`科技动态` · 2026-11-18 23:33)
+- **[美国批了，英伟达反而不卖中国？](https://radar.zhangyejialaoda.com/p/story-7aa748c003a796e1c790d688/)** (`科技动态` · 2026-11-18 23:17)
+- **[苹果给AI代理上锁：权限拆到文件夹](https://radar.zhangyejialaoda.com/p/story-4cc64d2d9f77c339158ac871/)** (`AI 工具` · 2026-11-18 22:44)
+- **[突发·爆料 250万人围观GTA6发售](https://radar.zhangyejialaoda.com/p/story-5a113e816f6a3859371d1938/)** (`科技动态` · 2026-11-18 22:39)
+- **[🇨🇳 DeepSeek搜索抓取改免单了](https://radar.zhangyejialaoda.com/p/story-c2cad942728ed15a6758de4a/)** (`科技动态` · 2026-11-18 22:36)
+- **[突发 等九年值了？GTA6评测出炉](https://radar.zhangyejialaoda.com/p/story-1c90486dd7571cc593285644/)** (`科技动态` · 2026-11-18 22:15)
+- **[等了13年，GTA6今晚解锁](https://radar.zhangyejialaoda.com/p/story-5c179b19cb0532a5a59b77e5/)** (`科技动态` · 2026-11-18 22:07)
+- **[3.9万份AI指令，近三成带模板味](https://radar.zhangyejialaoda.com/p/story-23c4d35557c0db50b59ce431/)** (`AI 工具` · 2026-11-18 21:51)
+- **[AI巨头要IPO，老股东再砸几十亿](https://radar.zhangyejialaoda.com/p/story-d6e26feab10cb94e2db67ed2/)** (`科技动态` · 2026-11-18 21:29)
+- **[GTA6锁30帧，PS5 Pro白搭](https://radar.zhangyejialaoda.com/p/story-2eb3a8c0815cbc736801f232/)** (`科技动态` · 2026-11-18 21:08)
+- **[腾讯混元Hy4开源：激活仅12B](https://radar.zhangyejialaoda.com/p/story-8470824f1effb10ddc47ff87/)** (`大模型` · 2026-11-18 20:43)
+- **[给AI配台真电脑能跑命令还能改文件](https://radar.zhangyejialaoda.com/p/story-4f39d1f3152017c286d32b34/)** (`AI 工具` · 2026-11-18 20:27)
+- **[GTA6评测：90小时神作仍锁30帧](https://radar.zhangyejialaoda.com/p/story-e6ffee2dd35a1cbad0848cd2/)** (`科技动态` · 2026-11-18 20:17)
+- **[不给教程，LLM智能体自己学会进化](https://radar.zhangyejialaoda.com/p/story-6983adf5979169ca2c577c8d/)** (`大模型` · 2026-11-18 19:41)
 <!-- LATEST-FEED:END -->
 
 - 📚 [查看全部按日归档索引](./digests/INDEX.md)
