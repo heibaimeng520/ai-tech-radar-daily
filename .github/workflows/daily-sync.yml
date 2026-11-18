@@ -1,0 +1,36 @@
+name: Sync Daily AI Tech Radar
+
+on:
+  schedule:
+    - cron: '25 0,12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch latest radar feed and update archives
+        run: python3 scripts/sync_daily.py
+
+      - name: Commit and push updates
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md digests/
+            git commit -m "chore: sync AI Tech Radar daily digest ($(TZ=Asia/Shanghai date +%Y-%m-%d))"
+            git push
+          else
+            echo "No changes to commit."
+          fi
