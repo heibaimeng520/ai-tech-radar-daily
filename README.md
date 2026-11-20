@@ -31,23 +31,23 @@
 ## 📰 最新精选 AI 资讯（每日自动同步）
 
 <!-- LATEST-FEED:START -->
-_最后同步（北京时间）：2026-11-20 04:49 · [今日完整归档（2026-11-20）](./digests/2026-11/2026-11-20.md)_
+_最后同步（北京时间）：2026-11-20 15:30 · [今日完整归档（2026-11-20）](./digests/2026-11/2026-11-20.md)_
 
-- **[突发 Gemini工具太多？按需搜](https://radar.zhangyejialaoda.com/p/story-1b3aafed7dd5d45c68229b6f/)** (`AI 工具` · 2026-11-20 02:54)
-- **[突发·爆料 GTA6下载把全球网络挤爆](https://radar.zhangyejialaoda.com/p/story-4005893dbb912cf2e8dcd2df/)** (`科技动态` · 2026-11-20 00:53)
-- **[突发·爆料 GTA6发售前，R星母公司扫荡移植](https://radar.zhangyejialaoda.com/p/story-16c577510e834a75da413051/)** (`科技动态` · 2026-11-20 00:04)
-- **[快手可灵4.0杀入游戏具身智能](https://radar.zhangyejialaoda.com/p/story-93018ac16ad102086a4d72b0/)** (`大模型` · 2026-11-19 23:57)
-- **[9B模型260K上下文塞进16GB卡](https://radar.zhangyejialaoda.com/p/story-2d273d6a4e5bce1688eccba7/)** (`AI 工具` · 2026-11-19 23:20)
-- **[算力被订到2029年，亚马逊狂砸钱](https://radar.zhangyejialaoda.com/p/story-06f09eb3b1bd25a93c1c4284/)** (`科技动态` · 2026-11-19 23:12)
-- **[0.5美元起审固件，AI摸到藏宝图](https://radar.zhangyejialaoda.com/p/story-d3634b9f01d33905ca4d18d3/)** (`AI 工具` · 2026-11-19 22:57)
-- **[台积电5亿美元押注AI公司](https://radar.zhangyejialaoda.com/p/story-2b4e3495e6d5a035cb0b96e5/)** (`科技动态` · 2026-11-19 22:29)
-- **[千问下一代模型，已在平头哥芯片开练](https://radar.zhangyejialaoda.com/p/story-e205f3f9fa5b237cc767d7bb/)** (`科技动态` · 2026-11-19 22:00)
-- **[Eve 1.0转正，延迟缩至1/7](https://radar.zhangyejialaoda.com/p/story-341333f6cd12369224c9d587/)** (`AI 工具` · 2026-11-19 21:56)
-- **[突发·爆料 GTA6开卖，主播通宵直播抢流量](https://radar.zhangyejialaoda.com/p/story-e197ee780542f878ddd51a1f/)** (`科技动态` · 2026-11-19 21:50)
-- **[纳德拉：AI代购要重排互联网座位](https://radar.zhangyejialaoda.com/p/story-528bac68e16912fedd7e6c67/)** (`科技动态` · 2026-11-19 21:31)
-- **[🇨🇳 华为手机代接苹果来电，先限两款旗舰](https://radar.zhangyejialaoda.com/p/story-e590da2f6ba630f06e8e1a3c/)** (`科技动态` · 2026-11-19 21:11)
-- **[工业酶也能按需定制？大模型一周出方案](https://radar.zhangyejialaoda.com/p/story-aa9bdb6a1d88f46b4e63ec63/)** (`大模型` · 2026-11-19 20:41)
-- **[RAG重排实测：第3名也能翻盘](https://radar.zhangyejialaoda.com/p/story-4f178a52b2c322a08155001b/)** (`AI 工具` · 2026-11-19 20:33)
+- **[AI巨头IPO拷问循环融资](https://radar.zhangyejialaoda.com/p/story-1a0efdf48ede8261091c75c9/)** (`科技动态` · 2026-11-20 15:11)
+- **[Zen 6桌面U或延至2027下半年](https://radar.zhangyejialaoda.com/p/story-7cfcdeb6e8f10c767a8728f1/)** (`科技动态` · 2026-11-20 14:45)
+- **[人工智能新贵上市首日涨近三成](https://radar.zhangyejialaoda.com/p/story-6c9f5a9bf938dda5f268b803/)** (`科技动态` · 2026-11-20 14:22)
+- **[腾讯Hy4全开源：770B参数随便下](https://radar.zhangyejialaoda.com/p/story-cb2a934e4930c2a2e3575dd9/)** (`大模型` · 2026-11-20 13:43)
+- **[9000亿美元AI投入，CEO说不算大](https://radar.zhangyejialaoda.com/p/story-459817763ec779ac7679377c/)** (`科技动态` · 2026-11-20 13:24)
+- **[重复键名别写了：token省掉六成](https://radar.zhangyejialaoda.com/p/story-aa0cfa06b2154731dea2292f/)** (`AI 工具` · 2026-11-20 13:20)
+- **[突发·爆料 GTA 6首日估算2458万份](https://radar.zhangyejialaoda.com/p/story-0bac2e529dc13c392bc7bf15/)** (`科技动态` · 2026-11-20 13:17)
+- **[AI巨头掌门：算力承诺不算大](https://radar.zhangyejialaoda.com/p/story-c0d2f5e26221454505fe58e1/)** (`科技动态` · 2026-11-20 12:49)
+- **[三星AI眼镜预售数小时被抢空](https://radar.zhangyejialaoda.com/p/story-0e8e483c3e2a66e05481a15e/)** (`AI 工具` · 2026-11-20 12:34)
+- **[谷歌2029年把AI服务器送上天](https://radar.zhangyejialaoda.com/p/story-99171258676b1be2ee49f5a5/)** (`科技动态` · 2026-11-20 12:09)
+- **[🇨🇳 小鹏要给松油门配AI副驾](https://radar.zhangyejialaoda.com/p/story-c22516c176ec714ecc4d2856/)** (`科技动态` · 2026-11-20 11:56)
+- **[谷歌搜索首页被AI聊天记录占领](https://radar.zhangyejialaoda.com/p/story-5715e87e5b943c98eb1524b6/)** (`AI 工具` · 2026-11-20 11:34)
+- **[AI巨头IPO，1560亿砸向慈善](https://radar.zhangyejialaoda.com/p/story-0027e4a1d292e51621fcf4db/)** (`科技动态` · 2026-11-20 10:50)
+- **[微软AI开发包被投毒，31分钟下架](https://radar.zhangyejialaoda.com/p/story-c92812f9faa8b39238d1cb1d/)** (`AI 工具` · 2026-11-20 10:22)
+- **[英国捂不住：得承认给苹果发过后门令](https://radar.zhangyejialaoda.com/p/story-5fb51cd73dfbc4e4d5e1e264/)** (`科技动态` · 2026-11-20 09:38)
 <!-- LATEST-FEED:END -->
 
 - 📚 [查看全部按日归档索引](./digests/INDEX.md)
