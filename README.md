@@ -31,23 +31,23 @@
 ## 📰 最新精选 AI 资讯（每日自动同步）
 
 <!-- LATEST-FEED:START -->
-_最后同步（北京时间）：2026-11-22 03:29 · [今日完整归档（2026-11-22）](./digests/2026-11/2026-11-22.md)_
+_最后同步（北京时间）：2026-11-22 15:07 · [今日完整归档（2026-11-22）](./digests/2026-11/2026-11-22.md)_
 
-- **[投简历前删AI痕迹？这工具能查](https://radar.zhangyejialaoda.com/p/story-98b6f0fe61295fb305299450/)** (`AI 工具` · 2026-11-21 23:52)
-- **[不花订阅费，聊天机器人秒变编程代理](https://radar.zhangyejialaoda.com/p/story-8a855ad5911ec58a876b7910/)** (`AI 工具` · 2026-11-21 23:24)
-- **[AWS Quick让AI同事组团交活](https://radar.zhangyejialaoda.com/p/story-6b1a37a3501d8c9aa6e029ce/)** (`AI 工具` · 2026-11-21 23:06)
-- **[规则不管用，他给AI助手装70个钩子](https://radar.zhangyejialaoda.com/p/story-1781ddcf3f0085dd204119d4/)** (`AI 工具` · 2026-11-21 22:43)
-- **[医院RAG宁可说不知道，别装懂](https://radar.zhangyejialaoda.com/p/story-73825b4dd931a34dd12cea79/)** (`AI 工具` · 2026-11-21 22:30)
-- **[三星内存产能被订到2029年](https://radar.zhangyejialaoda.com/p/story-7fb1f331c5c55511d9b3c918/)** (`科技动态` · 2026-11-21 22:09)
-- **[133KB图当文本烧12万token](https://radar.zhangyejialaoda.com/p/story-9f05160c21c5d1d15914edce/)** (`大模型` · 2026-11-21 21:55)
-- **[R星免费发GTA6完整地图](https://radar.zhangyejialaoda.com/p/story-17be98b22c9149766d96dfcf/)** (`科技动态` · 2026-11-21 21:36)
-- **[13.8万AI技能体检：低星9倍高危](https://radar.zhangyejialaoda.com/p/story-ed9431325b0fab383657121b/)** (`AI 工具` · 2026-11-21 21:15)
-- **[腾讯单季AI烧152亿，快手利润跳水](https://radar.zhangyejialaoda.com/p/story-445a75bb2f8cbe3a8c644300/)** (`科技动态` · 2026-11-21 20:49)
-- **[27寸2K跑1250Hz，先别急着买](https://radar.zhangyejialaoda.com/p/story-29a8f38b5cc15c976dcb4d08/)** (`科技动态` · 2026-11-21 20:29)
-- **[律师6.3万元攒12张V100跑AI](https://radar.zhangyejialaoda.com/p/story-1b45c48031a1bab935ae0e81/)** (`科技动态` · 2026-11-21 20:18)
-- **[7位创始人捏住50.1%投票权](https://radar.zhangyejialaoda.com/p/story-dbdc08ca2deafb0778455f05/)** (`科技动态` · 2026-11-21 19:53)
-- **[AWS缓存技能：首字延迟砍80%](https://radar.zhangyejialaoda.com/p/story-756bd32258a5ff4a6e998eab/)** (`AI 工具` · 2026-11-21 19:28)
-- **[四成AI技能偷读密钥，先离线验个毒](https://radar.zhangyejialaoda.com/p/story-a19ba2b6c5a6259a9e758075/)** (`AI 工具` · 2026-11-21 19:15)
+- **[马斯克预警：AI明年或缺数千亿美元](https://radar.zhangyejialaoda.com/p/story-4d233cc302cec8a090014361/)** (`科技动态` · 2026-11-22 14:50)
+- **[1/4的MCP服务器碰密钥，注入虚惊](https://radar.zhangyejialaoda.com/p/story-c47508824822b839f1b2fffc/)** (`AI 工具` · 2026-11-22 14:09)
+- **[参议员追责苹果谷歌：AI脱衣应用仍在](https://radar.zhangyejialaoda.com/p/story-112fe8349b1ca10d282f2bf5/)** (`科技动态` · 2026-11-22 13:47)
+- **[最便宜还最强？CodeAF登顶](https://radar.zhangyejialaoda.com/p/story-5063444ea2a56fa87b219060/)** (`AI 工具` · 2026-11-22 13:33)
+- **[🇨🇳 华为Mate80破千万 标准版近六成](https://radar.zhangyejialaoda.com/p/story-8a172ea95d5027045ce739d1/)** (`科技动态` · 2026-11-22 13:11)
+- **[Signal手机截屏上锁防AI偷看](https://radar.zhangyejialaoda.com/p/story-7289e21f33e265e97a89457e/)** (`AI 工具` · 2026-11-22 12:43)
+- **[外勤CRM接AI，ChatGPT卡了](https://radar.zhangyejialaoda.com/p/story-bd259ab08bc5ce2ed316753b/)** (`AI 工具` · 2026-11-22 12:22)
+- **[1700万行代码，黎曼证明过关](https://radar.zhangyejialaoda.com/p/story-9b690ad7f65744d6035a7fa2/)** (`大模型` · 2026-11-22 12:08)
+- **[防AI偷看，Signal默认禁截图](https://radar.zhangyejialaoda.com/p/story-3ecdec15e21e33b43b4b378a/)** (`AI 工具` · 2026-11-22 11:34)
+- **[亚马逊洽购Decart，硬刚英伟达](https://radar.zhangyejialaoda.com/p/story-7db1ce8d2b49482ce1603525/)** (`科技动态` · 2026-11-22 11:04)
+- **[A卡魔改DLSS 5，快一成省显存](https://radar.zhangyejialaoda.com/p/story-092a82fbc223f56c1beb862f/)** (`AI 工具` · 2026-11-22 10:37)
+- **[26B模型跑进32GB MacBook](https://radar.zhangyejialaoda.com/p/story-36a03a182cabe5322fda7438/)** (`大模型` · 2026-11-22 10:20)
+- **[给AI代理立规矩，先翻它的翻车日志](https://radar.zhangyejialaoda.com/p/story-32d2e12cf12a622f384305cc/)** (`AI 工具` · 2026-11-22 09:55)
+- **[SSD内置NPU，硬盘自己跑大模型](https://radar.zhangyejialaoda.com/p/story-82516aadca126875df8a70a8/)** (`科技动态` · 2026-11-22 09:08)
+- **[8GB显卡没满，16GB内存先喊救命](https://radar.zhangyejialaoda.com/p/story-bc726ad8c457e1a409aa381f/)** (`科技动态` · 2026-11-22 08:58)
 <!-- LATEST-FEED:END -->
 
 - 📚 [查看全部按日归档索引](./digests/INDEX.md)
