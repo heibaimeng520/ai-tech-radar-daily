@@ -31,23 +31,23 @@
 ## 📰 最新精选 AI 资讯（每日自动同步）
 
 <!-- LATEST-FEED:START -->
-_最后同步（北京时间）：2026-11-23 03:51 · [今日完整归档（2026-11-23）](./digests/2026-11/2026-11-23.md)_
+_最后同步（北京时间）：2026-11-23 15:53 · [今日完整归档（2026-11-23）](./digests/2026-11/2026-11-23.md)_
 
-- **[AI API中转站四查防翻车](https://radar.zhangyejialaoda.com/p/story-0a40a6259e706930774b12f2/)** (`AI 工具` · 2026-11-22 23:56)
-- **[迷你Mac当AI服务器，踩坑53个](https://radar.zhangyejialaoda.com/p/story-5aa25396fee7e660997c3bb7/)** (`AI 工具` · 2026-11-22 23:27)
-- **[同样$0.30/M，账单却差37%？](https://radar.zhangyejialaoda.com/p/story-d16386a891273eaaa61a28e3/)** (`大模型` · 2026-11-22 23:00)
-- **[代码Agent评测最难的是判对错](https://radar.zhangyejialaoda.com/p/story-51658a81e0499b7be7f07ad7/)** (`AI 工具` · 2026-11-22 22:52)
-- **[AI代理编造订单号，四十行代码拦截](https://radar.zhangyejialaoda.com/p/story-a1163df2c1e569d0693aed1f/)** (`AI 工具` · 2026-11-22 22:25)
-- **[ChatGPT和Claude记忆互通](https://radar.zhangyejialaoda.com/p/story-baae2546470cc33504673497/)** (`AI 工具` · 2026-11-22 22:07)
-- **[不给接口权限，他直接读Teams缓存](https://radar.zhangyejialaoda.com/p/story-439c87d1acf49e60c2c4c1b5/)** (`AI 工具` · 2026-11-22 21:52)
-- **[K3.1-Pro无限API上HN待验](https://radar.zhangyejialaoda.com/p/story-a52cb21ec0e0190cb269ff21/)** (`大模型` · 2026-11-22 21:27)
-- **[八成LLM漏秘密，Agent更危险](https://radar.zhangyejialaoda.com/p/story-83fc27d9947690d6618a45dc/)** (`大模型` · 2026-11-22 21:05)
-- **[腾讯输入法内测：动嘴就能成稿](https://radar.zhangyejialaoda.com/p/story-363cb85864ce88ff87a0b572/)** (`AI 工具` · 2026-11-22 20:55)
-- **[突发 Qwen Code 一次更五十项](https://radar.zhangyejialaoda.com/p/story-51c01b0a9ef73c74e79d4f0c/)** (`AI 工具` · 2026-11-22 20:26)
-- **[AI视频不抽盲盒，改搭积木](https://radar.zhangyejialaoda.com/p/story-7f0ec5962a29ef2e4cb4bada/)** (`AI 工具` · 2026-11-22 20:22)
-- **[大模型比价别被每百万token带偏](https://radar.zhangyejialaoda.com/p/story-d502cd6e0447758c2c2e8b4b/)** (`AI 工具` · 2026-11-22 20:00)
-- **[不写代码，心内科医生也能调Agent](https://radar.zhangyejialaoda.com/p/story-6dc110a9b76c0552a6839f42/)** (`AI 工具` · 2026-11-22 19:52)
-- **[LLM上线就翻车？评估得这么搞](https://radar.zhangyejialaoda.com/p/story-9aaa2d670ceb688aca8f8803/)** (`AI 工具` · 2026-11-22 19:21)
+- **[美财长：黄仁勋现在算外部人士](https://radar.zhangyejialaoda.com/p/story-2f2d38ce2a4ec916abcc742e/)** (`科技动态` · 2026-11-23 15:35)
+- **[AI服务器签约后涨价，最高45%](https://radar.zhangyejialaoda.com/p/story-2c1bce95a47bbcabdd69aa2c/)** (`科技动态` · 2026-11-23 15:06)
+- **[苹果Siri裁员没碰新AI，槽点照旧](https://radar.zhangyejialaoda.com/p/story-0778e7b1a128dcc5c1dbbdb2/)** (`科技动态` · 2026-11-23 14:54)
+- **[智谱 GLM-5.4 上线，写码能看图了](https://radar.zhangyejialaoda.com/p/story-97dccf75f814e1da303c98a0/)** (`大模型` · 2026-11-23 14:01)
+- **[AI代理改Kdenlive不抢焦点](https://radar.zhangyejialaoda.com/p/story-6c81df0348d8b7801280b68b/)** (`AI 工具` · 2026-11-23 13:47)
+- **[腾讯百度阿里狂砸AI，利润先喊疼](https://radar.zhangyejialaoda.com/p/story-d34974ba2c3c0696f9526876/)** (`科技动态` · 2026-11-23 13:25)
+- **[阿福1.5亿用户，蚂蚁喊医保管健康](https://radar.zhangyejialaoda.com/p/story-f17c194c4a89e48b13038744/)** (`AI 工具` · 2026-11-23 13:00)
+- **[H100哪家便宜？免费MCP查云价](https://radar.zhangyejialaoda.com/p/story-343f5f359d9e05b4332fa414/)** (`AI 工具` · 2026-11-23 12:42)
+- **[谷歌AI搜索钱难赚，苹果服务也打喷嚏](https://radar.zhangyejialaoda.com/p/story-aea4ecda9496be4eaa82cc26/)** (`科技动态` · 2026-11-23 12:30)
+- **[百灵医疗大模型开源，最轻版笔记本能跑](https://radar.zhangyejialaoda.com/p/story-a38c01d2262b3d9dc471a3b7/)** (`大模型` · 2026-11-23 12:14)
+- **[KV缓存别乱改：前缀冻结快2.63倍](https://radar.zhangyejialaoda.com/p/story-73e13b22ef0143542ff3cb7a/)** (`科技动态` · 2026-11-23 11:44)
+- **[软盘装下AI，486也能跑](https://radar.zhangyejialaoda.com/p/story-522f86eca0c96c6a5f6e04a2/)** (`大模型` · 2026-11-23 11:19)
+- **[深度求索融资：出钱只是入场券](https://radar.zhangyejialaoda.com/p/story-08f1b82d3a9dce1cd0827c1f/)** (`科技动态` · 2026-11-23 10:35)
+- **[UE5.9预览版：蓝图游戏跑进浏览器](https://radar.zhangyejialaoda.com/p/story-fce1aae1a39bbac9bed3821e/)** (`AI 工具` · 2026-11-23 10:17)
+- **[索尼封停两月，最后生还者联机模组来了](https://radar.zhangyejialaoda.com/p/story-68ee903fe7d73a9c33514681/)** (`科技动态` · 2026-11-23 09:42)
 <!-- LATEST-FEED:END -->
 
 - 📚 [查看全部按日归档索引](./digests/INDEX.md)
