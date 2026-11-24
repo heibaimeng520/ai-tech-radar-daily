@@ -31,23 +31,23 @@
 ## 📰 最新精选 AI 资讯（每日自动同步）
 
 <!-- LATEST-FEED:START -->
-_最后同步（北京时间）：2026-11-24 18:06 · [今日完整归档（2026-11-24）](./digests/2026-11/2026-11-24.md)_
+_最后同步（北京时间）：2026-11-25 06:37 · [今日完整归档（2026-11-25）](./digests/2026-11/2026-11-25.md)_
 
-- **[这论坛只许AI发帖，人类想回帖没门](https://radar.zhangyejialaoda.com/p/story-0df740b63d184f4aff059e4d/)** (`AI 工具` · 2026-11-24 17:57)
-- **[🇨🇳 12999元起，华为最薄折叠屏来了](https://radar.zhangyejialaoda.com/p/story-15df8ecc90f83589323776ed/)** (`科技动态` · 2026-11-24 17:20)
-- **[24GB卡跑视频超分，编码比模型还慢](https://radar.zhangyejialaoda.com/p/story-efcc06d126439372235c6663/)** (`科技动态` · 2026-11-24 16:49)
-- **[突发 Claude插件店开张：万款任逛](https://radar.zhangyejialaoda.com/p/story-bcbec71eecd123113303f40c/)** (`AI 工具` · 2026-11-24 16:07)
-- **[荷兰AI芯片商正洽谈再筹4亿美元](https://radar.zhangyejialaoda.com/p/story-32aba6e4373abb43cee23962/)** (`科技动态` · 2026-11-24 16:03)
-- **[AI泡沫没炸，英伟达跌掉四成](https://radar.zhangyejialaoda.com/p/story-38c18da1f35e201a414b9a89/)** (`科技动态` · 2026-11-24 15:35)
-- **[突发·爆料 Threads终于想起iPad了](https://radar.zhangyejialaoda.com/p/story-6f76ac604304dedbcb1d22d7/)** (`AI 工具` · 2026-11-24 15:23)
-- **[25万页是玩笑：黎曼猜想证明仍过关](https://radar.zhangyejialaoda.com/p/story-23a5b45ddd231f46be236056/)** (`大模型` · 2026-11-24 15:21)
-- **[Grok涉CSAM，SpaceX挨告](https://radar.zhangyejialaoda.com/p/story-f323d7562d6653aad531a943/)** (`科技动态` · 2026-11-24 14:37)
-- **[突发 给AE塞78个工具，它自己会做动画](https://radar.zhangyejialaoda.com/p/story-f647fe1c00afc95a5d41ddf0/)** (`AI 工具` · 2026-11-24 14:05)
-- **[马斯克31亿美元造多晶硅，2030见](https://radar.zhangyejialaoda.com/p/story-7b05688de81628c796ceed74/)** (`科技动态` · 2026-11-24 14:01)
-- **[微软Teams要给通话配AI反诈警报](https://radar.zhangyejialaoda.com/p/story-9ef72c5f0e82bc7f3b6d6b6e/)** (`AI 工具` · 2026-11-24 13:51)
-- **[AI智能体开会，量子算法提速290倍](https://radar.zhangyejialaoda.com/p/story-666f0d2706796d012a750e70/)** (`大模型` · 2026-11-24 13:25)
-- **[突发 AI给Linux内核贴创可贴，免重启](https://radar.zhangyejialaoda.com/p/story-1d26a751d3fb55b99f1fdfdd/)** (`AI 工具` · 2026-11-24 13:04)
-- **[马斯克认了：租算力比Grok更赚](https://radar.zhangyejialaoda.com/p/story-d483ccacac419eb5293980c8/)** (`科技动态` · 2026-11-24 13:02)
+- **[🇨🇳 B站AI广告涨95%，还测Agent](https://radar.zhangyejialaoda.com/p/story-fc102031631c8e4a517e9ac9/)** (`科技动态` · 2026-11-24 23:42)
+- **[巫师4要圈粉网飞党，但绝不降智](https://radar.zhangyejialaoda.com/p/story-074119686db6a905de212c75/)** (`科技动态` · 2026-11-24 23:33)
+- **[AI聚合平台一口气踢掉3家泄密供应商](https://radar.zhangyejialaoda.com/p/story-7b86d265d0e5ec071e3b60d7/)** (`科技动态` · 2026-11-24 23:14)
+- **[34个小模型试出短语分词坑](https://radar.zhangyejialaoda.com/p/story-8557f2ae31dd254318f5aa3c/)** (`大模型` · 2026-11-24 22:37)
+- **[AI代理11分钟自己挖穿零日漏洞](https://radar.zhangyejialaoda.com/p/story-e97dd56116f464d70dd3a6d3/)** (`AI 工具` · 2026-11-24 22:06)
+- **[网页智能体提速12倍，token砍半](https://radar.zhangyejialaoda.com/p/story-5660f3e41b5f8857a05ccb44/)** (`AI 工具` · 2026-11-24 21:50)
+- **[知乎买DeepSeek，股价涨10%](https://radar.zhangyejialaoda.com/p/story-26aef767b84c3010e974e298/)** (`科技动态` · 2026-11-24 21:24)
+- **[蚂蚁开源模型：睡一觉数据算六年病](https://radar.zhangyejialaoda.com/p/story-1f6b987d01cf7d188021ca30/)** (`大模型` · 2026-11-24 21:16)
+- **[豆包小豆公测：邀请码进场，送免费额度](https://radar.zhangyejialaoda.com/p/story-4b6ac386fbd6966447155dc0/)** (`AI 工具` · 2026-11-24 20:48)
+- **[中移动2万卡AI大单，神州数码拿一成](https://radar.zhangyejialaoda.com/p/story-f24074c9876b427e5251bc4a/)** (`科技动态` · 2026-11-24 20:32)
+- **[突发·爆料 GTA6上线，使命召唤日活掉四成](https://radar.zhangyejialaoda.com/p/story-dfae58366375273bb875175e/)** (`科技动态` · 2026-11-24 20:17)
+- **[突发·爆料 内部AI强到不敢发？两家巨头员工警告](https://radar.zhangyejialaoda.com/p/story-c7ea22e51b184faee0f44694/)** (`大模型` · 2026-11-24 20:13)
+- **[车端跑10亿模型，36帧生成街景](https://radar.zhangyejialaoda.com/p/story-fc8623d72285c8a23e235a74/)** (`大模型` · 2026-11-24 20:07)
+- **[浏览器MCP跑分：少回合才省钱](https://radar.zhangyejialaoda.com/p/story-9909f253ad789758b8e3743e/)** (`AI 工具` · 2026-11-24 19:42)
+- **[7英寸华为新机4999元起](https://radar.zhangyejialaoda.com/p/story-831ff05b10f7b2fe28a9a679/)** (`科技动态` · 2026-11-24 19:35)
 <!-- LATEST-FEED:END -->
 
 - 📚 [查看全部按日归档索引](./digests/INDEX.md)
