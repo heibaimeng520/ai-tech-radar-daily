@@ -2,6 +2,7 @@
 
 > 在线阅读最新内容：<https://radar.zhangyejialaoda.com/> · [按主题浏览](https://radar.zhangyejialaoda.com/topic/) · [站内全部归档](https://radar.zhangyejialaoda.com/archive/)
 
+- [2026-11-27](./2026-11/2026-11-27.md)
 - [2026-11-26](./2026-11/2026-11-26.md)
 - [2026-11-25](./2026-11/2026-11-25.md)
 - [2026-11-24](./2026-11/2026-11-24.md)
