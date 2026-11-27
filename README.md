@@ -31,23 +31,23 @@
 ## 📰 最新精选 AI 资讯（每日自动同步）
 
 <!-- LATEST-FEED:START -->
-_最后同步（北京时间）：2026-11-27 16:49 · [今日完整归档（2026-11-27）](./digests/2026-11/2026-11-27.md)_
+_最后同步（北京时间）：2026-11-28 05:28 · [今日完整归档（2026-11-28）](./digests/2026-11/2026-11-28.md)_
 
-- **[三星要把机器人塞进芯片厂，2028年见](https://radar.zhangyejialaoda.com/p/story-e958e8ecc02f191d1a899710/)** (`科技动态` · 2026-11-27 16:39)
-- **[20个AI组队优化引擎，成绩反超人类](https://radar.zhangyejialaoda.com/p/story-3e10564311159f156d55b730/)** (`大模型` · 2026-11-27 16:02)
-- **[2.8万亿参数巨兽竟塞进8GB内存](https://radar.zhangyejialaoda.com/p/story-92fd285bb0c60193b00c6173/)** (`大模型` · 2026-11-27 15:55)
-- **[🇨🇳 千问辟谣：后训练负责人离职是假的](https://radar.zhangyejialaoda.com/p/story-e709f5901ee60b174963eb44/)** (`科技动态` · 2026-11-27 15:11)
-- **[14.99万深蓝L07，华为星驰白送](https://radar.zhangyejialaoda.com/p/story-b45d396c520828a70883f8f5/)** (`科技动态` · 2026-11-27 14:56)
-- **[🇨🇳 百亿触觉独角兽，喊出要做机器人上肢](https://radar.zhangyejialaoda.com/p/story-9473e13eaef80fda97ff2355/)** (`科技动态` · 2026-11-27 14:49)
-- **[HPE不陪AI云玩了：要先付钱](https://radar.zhangyejialaoda.com/p/story-080d898853a5e034d8fe5cfb/)** (`科技动态` · 2026-11-27 13:55)
-- **[48GB Mac装不下70B，坑在这](https://radar.zhangyejialaoda.com/p/story-4f163b987b9cfac20f9b8459/)** (`科技动态` · 2026-11-27 13:52)
-- **[纳德拉喊话：AI额度没用完，先别招人](https://radar.zhangyejialaoda.com/p/story-dd4ddfd8d964a2526d52b25f/)** (`科技动态` · 2026-11-27 13:07)
-- **[纳德拉：自研AI落后半年没事，便宜才赢](https://radar.zhangyejialaoda.com/p/story-395b46a88fc53de343131918/)** (`大模型` · 2026-11-27 12:52)
-- **[🇨🇳 华为乾崑联手宁德时代玩换电](https://radar.zhangyejialaoda.com/p/story-c57d21c5c797710d828d337f/)** (`科技动态` · 2026-11-27 12:37)
-- **[陶哲轩：AI吐证明像发电厂排核废料](https://radar.zhangyejialaoda.com/p/story-5ecd05c4406c6f7a0577302e/)** (`大模型` · 2026-11-27 12:15)
-- **[40美元电视盒子跑视觉监控的坑](https://radar.zhangyejialaoda.com/p/story-11982ecfe8cf0b176a909947/)** (`AI 工具` · 2026-11-27 11:47)
-- **[东电要砸10万亿日元建AI基建？](https://radar.zhangyejialaoda.com/p/story-c9b56084fe3460b55fd43608/)** (`科技动态` · 2026-11-27 11:04)
-- **[马斯克求芯片被李在镕连怼两次](https://radar.zhangyejialaoda.com/p/story-a075691b5c3942f7049f3a58/)** (`科技动态` · 2026-11-27 10:39)
+- **[848KB的Rust版浏览器MCP](https://radar.zhangyejialaoda.com/p/story-7cbd693bec400450ce729ca2/)** (`AI 工具` · 2026-11-27 23:41)
+- **[爆料：iPhone 18量产拖到元旦后](https://radar.zhangyejialaoda.com/p/story-18d0f848df052e849ded2810/)** (`科技动态` · 2026-11-27 23:33)
+- **[特斯拉AI5芯片难产，机器人先吃肉](https://radar.zhangyejialaoda.com/p/story-9fb567fb63a4e4cc61eb2f01/)** (`科技动态` · 2026-11-27 23:04)
+- **[零依赖零向量库，手搓Agent记忆](https://radar.zhangyejialaoda.com/p/story-722275c147ce4b4397e9c3d5/)** (`AI 工具` · 2026-11-27 22:55)
+- **[微软AI掌门警告：安全门槛已被踩线](https://radar.zhangyejialaoda.com/p/story-5f920b2d6bf667c19f71a6bc/)** (`大模型` · 2026-11-27 22:35)
+- **[亚马逊AI芯片，23秒生成10秒视频](https://radar.zhangyejialaoda.com/p/story-c2bd7953104652e48b060cb8/)** (`科技动态` · 2026-11-27 22:16)
+- **[混元3D新模型：高模能直接进产线](https://radar.zhangyejialaoda.com/p/story-637318b7f1d1bd5ef11fa565/)** (`大模型` · 2026-11-27 21:44)
+- **[掉31%帧数，大表哥2变身电影](https://radar.zhangyejialaoda.com/p/story-ded8cc5cf8d53d0c9a37b3c3/)** (`科技动态` · 2026-11-27 21:26)
+- **[Rust智能体省Token：脚本代劳](https://radar.zhangyejialaoda.com/p/story-3300cef8bc936b17ac91f23c/)** (`AI 工具` · 2026-11-27 21:03)
+- **[小米世界模型2.0仿真碰撞率0.4%](https://radar.zhangyejialaoda.com/p/story-6e2f7931855c2ac2be980402/)** (`大模型` · 2026-11-27 20:42)
+- **[豆包一句话剪视频，剪映官方插件来了](https://radar.zhangyejialaoda.com/p/story-7c430f2290b63017d7caba20/)** (`AI 工具` · 2026-11-27 20:33)
+- **[电子皮肤火了 有厂商海外增速反超国内](https://radar.zhangyejialaoda.com/p/story-e67a0ce42fa7ca6b945b504b/)** (`科技动态` · 2026-11-27 20:29)
+- **[豆包电视双十一销售额破亿](https://radar.zhangyejialaoda.com/p/story-8525d8c6230af92a578f82ba/)** (`科技动态` · 2026-11-27 19:40)
+- **[让用户自带AI订阅养你的App](https://radar.zhangyejialaoda.com/p/story-6c24294452fa446134e6abc6/)** (`AI 工具` · 2026-11-27 19:38)
+- **[突发·爆料 免费API拼路由，8家兜底养5个应用](https://radar.zhangyejialaoda.com/p/story-9614c5d520168c47af544f9b/)** (`AI 工具` · 2026-11-27 19:22)
 <!-- LATEST-FEED:END -->
 
 - 📚 [查看全部按日归档索引](./digests/INDEX.md)
